@@ -120,5 +120,93 @@
     "source_sha256": "5df01b8b548fbd246f6350250e8e291aec4622e43f417ee9c9b02640c7c29293",
     "sha256": "e13b6f3fa6e8484c849583ced039cf251dee7aa3110f98355e6946737baf94a4",
     "transformation": "原作业动画20秒截帧；非现场试验"
+  },
+  {
+    "path": "docs/assets/images/field-thermal-monitor.jpg",
+    "kind": "photo",
+    "source_file": "6dd22db8c215a26fb91125e3107e7298.jpg",
+    "source_sha256": "3eeb46ef06b525ed6ebe013fbcac80d91fc3aeb01e819fcfd793149b9635cd1a",
+    "sha256": "ed2ca78b379e858bf2f2fbe6e883ef71127b02d8c646624fa692dfb94bd4d2c3",
+    "transformation": "现场热成像监视器局部；裁去浏览器及桌面周边，仅保留原图热成像画面，温度读数不作修改；JPEG重编码移除EXIF；等比缩放",
+    "crop_box_original_pixels": [
+      60,
+      525,
+      1025,
+      1245
+    ],
+    "blur_boxes_original_pixels": []
+  },
+  {
+    "path": "docs/assets/images/supervisory-interface.jpg",
+    "kind": "photo",
+    "source_file": "7e9e3e9f562e4c7b996e91163f85fcb9.jpg",
+    "source_sha256": "42fc469602a360a6673da9e0e78610fdc393042354cf8bf5e7f9d5ae39dbb001",
+    "sha256": "d44e541ee948f1d9ca9df5b96d0ca1d88b434fd0926dc99d037ab986ff40a33f",
+    "transformation": "历史上位机界面局部；裁去地址栏及顶部站点选择信息，保留状态区、三维模型与视频区域；JPEG重编码移除EXIF；等比缩放",
+    "crop_box_original_pixels": [
+      0,
+      190,
+      1370,
+      780
+    ],
+    "blur_boxes_original_pixels": []
+  },
+  {
+    "path": "docs/assets/images/integrated-workstation.jpg",
+    "kind": "photo",
+    "source_file": "a4b0cec90737a6f1ccec4e09a3f60036.jpg",
+    "source_sha256": "62298d13851790b8dfe5d876e4f1fff6435fb3588486c076f5593f93e7ef480d",
+    "sha256": "d114defc069dd52d4c0f3e23eb3a3cedaf3e9f33310fde9189fac6fea0439c69",
+    "transformation": "现场工控机与监控工作站局部；裁去屏幕顶部设备地址与站点信息、底部门锁钥匙区域，对两处实物钥匙细节作模糊处理；JPEG重编码移除EXIF；等比缩放",
+    "crop_box_original_pixels": [
+      0,
+      500,
+      1080,
+      1710
+    ],
+    "blur_boxes_original_pixels": [
+      [
+        220,
+        550,
+        395,
+        815
+      ],
+      [
+        700,
+        1390,
+        800,
+        1550
+      ]
+    ]
+  },
+  {
+    "path": "docs/assets/images/field-spray-additional.jpg",
+    "kind": "photo",
+    "source_file": "6805e0c2a780e886d7dedfaebe4a2af5.jpg",
+    "source_sha256": "1abf152a7bb08de390e18ee0bf6ff371ff478f0da9bfb8233019838bdb38f58d",
+    "sha256": "4bc9b47bce4e209929d3556fef7def08e7acfd6355c1fe8c9cff2f040810435f",
+    "transformation": "用户补充现场喷雾照片，裁去上下黑边，保留设备与喷射形态；JPEG重编码移除EXIF；等比缩放",
+    "crop_box_original_pixels": [
+      0,
+      43,
+      1284,
+      764
+    ],
+    "blur_boxes_original_pixels": []
+  },
+  {
+    "path": "docs/assets/images/pump-enclosure-night.jpg",
+    "kind": "photo",
+    "source_file": "7a6ad4e1186e50e84a02d5e5ef9c2d89.jpg",
+    "source_sha256": "6811e67f31cbd394cdf123910defadd5ca98e1b12dd4c834a1458f87f0dc2777",
+    "sha256": "4cd442eacf5a33bdacdce336492beb80b62f30cea4eee73e29f452996fc05fdf",
+    "transformation": "夜间系统设备舱局部；裁切聚焦设备舱，不展示完整站区布局，保持原图明暗与标识；JPEG重编码移除EXIF；等比缩放",
+    "crop_box_original_pixels": [
+      1010,
+      1280,
+      3100,
+      2220
+    ],
+    "blur_boxes_original_pixels": []
   }
 ]

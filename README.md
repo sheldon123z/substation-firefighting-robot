@@ -51,6 +51,16 @@
 | --- | --- |
 | ![实验室装置](docs/assets/images/robot-lab.jpg) | ![现场机械臂及喷枪](docs/assets/images/nozzle-detail.jpg) |
 
+## 系统界面与现场集成
+
+新增热成像画面、历史上位机界面、工控工作站、现场喷雾与夜间设备舱5张补充照片。[查看完整画廊](https://sheldon123z.github.io/substation-firefighting-robot/#site-integration) · [影像来源与处理说明](docs/media.md#系统界面与现场集成补充照片)
+
+| 历史上位机界面局部 | 现场工控工作站局部 |
+| --- | --- |
+| ![历史上位机界面局部](docs/assets/images/supervisory-interface.jpg) | ![现场工控工作站局部](docs/assets/images/integrated-workstation.jpg) |
+
+热成像照片中的温度为原画面显示值，不作为新增实测结论；历史界面不代表当前实时运行状态。设备地址、站点选择信息及实物钥匙细节已作裁切或模糊处理。
+
 ## 工程验证
 
 | 验证项 | 记录结果 | 条件与含义 |

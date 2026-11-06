@@ -31,6 +31,20 @@
 | [动画封面](assets/images/operation-animation.jpg) | 作业动画截帧，非现场影像 | M4动画20秒截帧 |
 | [动态预览](assets/images/field-spray-preview.gif) | 现场喷雾前5秒，8帧每秒 | field-spray.mp4派生 |
 
+## 系统界面与现场集成补充照片
+
+以下5张影像由用户于2026年11月6日补充。补充日期不等同于拍摄日期，历史界面及温度标记按原画面理解。
+
+| 文件 | 内容与边界 | 展示处理 |
+| --- | --- | --- |
+| [现场热成像](assets/images/field-thermal-monitor.jpg) | 主变压器热成像监视器局部；温度为原图显示值，不作为新增实测或精度结论 | 保留热成像区域，裁去浏览器、桌面和显示器周边 |
+| [历史上位机界面](assets/images/supervisory-interface.jpg) | 设备状态、三维模型与视频区域的历史截图；不代表当前实时状态 | 裁去设备地址栏和顶部站点选择信息 |
+| [现场工控工作站](assets/images/integrated-workstation.jpg) | 工控机、监控显示器与辅助控制设备集成局部 | 裁去顶部地址栏、站点信息及底部门锁钥匙区域，对两处实物钥匙细节作模糊处理 |
+| [补充现场喷雾](assets/images/field-spray-additional.jpg) | 机器人与主变设备定向喷雾近景；不单独证明灭火性能 | 裁去上下黑边 |
+| [夜间设备舱](assets/images/pump-enclosure-night.jpg) | 高压细水雾智能灭火系统设备舱局部 | 聚焦设备舱，保持原图明暗与标识，不展示完整站区布局 |
+
+源文件名、SHA-256、原图像素裁切区域与模糊区域登记在[媒体清单](assets-manifest.json)。原始照片保留不变；展示图移除EXIF并进行JPEG压缩。
+
 ## 结构示意
 
 - [系统功能架构](assets/diagrams/system-architecture.svg)：按感知、分析、决策、执行及反馈组织，依据S1、S2重绘。
