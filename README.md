@@ -4,9 +4,11 @@
 
 [在线项目展厅](https://sheldon123z.github.io/substation-firefighting-robot/) · [项目说明](docs/project-overview.md) · [系统结构](docs/architecture.md) · [个人贡献](docs/contributions.md) · [验证记录](docs/validation.md) · [全部影像](docs/media.md)
 
-![现场喷雾试验](docs/assets/images/field-spray.jpg)
+[![消防机器人工作原理动画](docs/assets/images/operation-animation.jpg)](https://sheldon123z.github.io/substation-firefighting-robot/#intro-video)
 
-> 上图为现场功能验证影像。仓库中的动画、实验室记录与现场试验分别标注；指标保留原试验条件。
+**[观看51秒工作原理动画](https://sheldon123z.github.io/substation-firefighting-robot/#intro-video)**
+
+> 首屏动画直观展示机器人结构及清洗、降温和灭火工作模式。动画、实验室记录与现场试验分别标注；指标保留原试验条件。
 
 ## 项目做什么
 
@@ -25,10 +27,10 @@
 
 | 视频 | 内容 | 观看 |
 | --- | --- | --- |
+| 三维作业动画 | 清洗、降温和灭火模式示意，约51秒 | [播放](https://sheldon123z.github.io/substation-firefighting-robot/#intro-video) / [MP4](docs/assets/videos/operation-animation.mp4) |
 | 现场设备喷雾 | 30秒设备近景，无人物特写 | [播放](https://sheldon123z.github.io/substation-firefighting-robot/#videos) / [MP4](docs/assets/videos/field-spray.mp4) |
 | 机械臂与立柱动作 | 实验室装置动作记录，约14秒 | [MP4](docs/assets/videos/robot-motion.mp4) |
 | 热源跟踪 | 实验室红外阈值图像记录，60秒 | [MP4](docs/assets/videos/thermal-tracking.mp4) |
-| 三维作业动画 | 清洗、降温和灭火模式示意，约51秒 | [MP4](docs/assets/videos/operation-animation.mp4) |
 | 三维模型漫游 | 设备模型可视化，约19秒 | [MP4](docs/assets/videos/digital-model.mp4) |
 
 动画用于说明工作原理；实验室红外录像展示热源图像变化，不能单凭录像得出现场定位精度。在线展厅提供原生视频播放器，全部视频可直接下载。
