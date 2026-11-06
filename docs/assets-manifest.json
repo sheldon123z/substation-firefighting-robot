@@ -1,0 +1,124 @@
+[
+  {
+    "path": "docs/assets/images/digital-model.jpg",
+    "kind": "photo",
+    "source_file": "变压器.jpg",
+    "source_sha256": "3bb8b7bb4ac5f051de5d2b8d480f9357229225fc45c1bef9b9ad9d87f266e91b",
+    "sha256": "9ad7a4ec6b8fcc5a9138ba14b90b3da2b96dae7e4f5fe82706f65407fa180572",
+    "transformation": "JPEG重编码，移除EXIF；等比缩放"
+  },
+  {
+    "path": "docs/assets/images/field-spray-preview.gif",
+    "kind": "preview",
+    "source_file": "field-spray.mp4",
+    "source_sha256": "ebead90589147ec8ea0957254cee19ad68e0c2223f68d8c7ccb7102a06cfee6e",
+    "sha256": "d48eab18f8ce02257fd9039379258cd0a379964ed49424ec2076c69fbd729fbd",
+    "transformation": "前5秒8fps动画预览"
+  },
+  {
+    "path": "docs/assets/images/field-spray.jpg",
+    "kind": "photo",
+    "source_file": "report-3.jpg",
+    "source_sha256": "d8f43057d584df2358c8a86aa90e22c404db376c7b1b93b0a92bf597d4cbb68f",
+    "sha256": "588c706bba3e27f448142b13a480be2fbf6ecf6276b3d80d00b05ae05ba1a4ee",
+    "transformation": "JPEG重编码，移除EXIF；等比缩放",
+    "source_document": "高压细水雾智能机器人消防系统功能验证实验报告.docx",
+    "source_member": "word/media/image3.jpeg"
+  },
+  {
+    "path": "docs/assets/images/lift-column.jpg",
+    "kind": "photo",
+    "source_file": "实验室1.jpg",
+    "source_sha256": "4be9a8e9c4c3a7b8401327e62b74815ef4864862d2a41bd3bcd1f9b6e3edffa5",
+    "sha256": "0a160d47988ebd0e557173c84fe97f18d276f98e9731977f34f6bb00059b2169",
+    "transformation": "JPEG重编码，移除EXIF；等比缩放"
+  },
+  {
+    "path": "docs/assets/images/nozzle-detail.jpg",
+    "kind": "photo",
+    "source_file": "nozzle-detail.jpg",
+    "source_sha256": "c030feaa8a5dbe966d4856fb8c50299e0a0b0aa9f8a610d7b5c74c4aee9d5f23",
+    "sha256": "fbc94156ad81e87a118bda0c224859f5dac8132436f4a661caf440e318561fc7",
+    "transformation": "JPEG重编码，移除EXIF；等比缩放"
+  },
+  {
+    "path": "docs/assets/images/robot-front.jpg",
+    "kind": "photo",
+    "source_file": "实验室4.jpg",
+    "source_sha256": "1adb43d7583a4eb65dacf8c816d216f8086e45191148eec36a8ab7697dbb2117",
+    "sha256": "0130d0320dcab1abb1b57b88947b3b3cb73f639dbb64737bff58e42c6f0ac318",
+    "transformation": "JPEG重编码，移除EXIF；等比缩放"
+  },
+  {
+    "path": "docs/assets/images/robot-lab.jpg",
+    "kind": "photo",
+    "source_file": "实验室2.jpg",
+    "source_sha256": "5b1b6a0ec5e788b1ca6ec9ecf6439c7798695f64473953c6e11317c2116f0834",
+    "sha256": "af10de6329bfdcbe38eefd1b5ccfff1d822d245861e41516e7ad364297b78477",
+    "transformation": "等比缩放后裁去左侧人物区域；JPEG重编码移除EXIF"
+  },
+  {
+    "path": "docs/assets/images/robot-side.jpg",
+    "kind": "photo",
+    "source_file": "实验室3.jpg",
+    "source_sha256": "59cb50a21421e4b7d9e1cd4248cf448892fabb0c16857a0ff6854f38ee5dc617",
+    "sha256": "3194d8edd928824bffddbbbf3077637540b917cd5a9fa15618bbd8bf0eae4c22",
+    "transformation": "JPEG重编码，移除EXIF；等比缩放"
+  },
+  {
+    "path": "docs/assets/images/thermal-tracking.jpg",
+    "kind": "photo",
+    "source_file": "thermal-camera.jpg",
+    "source_sha256": "9fc3372c974a173a5ad37d613804aaef65e95b758599ba80b1be177865e54d0d",
+    "sha256": "10417635f8c13644df6b083adfc567e4f40fb856b0a2efa4710195133b5ca668",
+    "transformation": "实验室热成像监视器画面局部；裁去全部登录工具栏、网络信息和屏幕周边，JPEG重编码移除EXIF"
+  },
+  {
+    "path": "docs/assets/videos/digital-model.mp4",
+    "kind": "video",
+    "source_file": "电站1.mp4",
+    "source_sha256": "e94116cd9af3a4b0a455b3ac61b87ca20eddf293a231fa050d5dd17903feb8f3",
+    "sha256": "7b6e3eac3c3e8eb4da259fbe2f06349e7784504b7d851c95692fff5dbb48ec18",
+    "transformation": "三维模型漫游，非现场影像；无音轨，移除元数据"
+  },
+  {
+    "path": "docs/assets/videos/field-spray.mp4",
+    "kind": "video",
+    "source_file": "现场视频 (3).mp4",
+    "source_sha256": "2dc8f0bbf0eeda1208c9e2ba2c0759c36387b0e8135a2e2ac92a9ec333ff7df6",
+    "sha256": "ebead90589147ec8ea0957254cee19ad68e0c2223f68d8c7ccb7102a06cfee6e",
+    "transformation": "现场设备喷雾近景，原视频50–80秒片段；无音轨，移除元数据"
+  },
+  {
+    "path": "docs/assets/videos/operation-animation.mp4",
+    "kind": "video",
+    "source_file": "灭火动画最终成片.mp4",
+    "source_sha256": "5df01b8b548fbd246f6350250e8e291aec4622e43f417ee9c9b02640c7c29293",
+    "sha256": "5bbb3865f37030fb85ffbdc16edc0fcc3b21e7e1d4b26298dee7cb504579f35a",
+    "transformation": "原项目三维作业动画；保留原标识，无音轨，移除元数据"
+  },
+  {
+    "path": "docs/assets/videos/robot-motion.mp4",
+    "kind": "video",
+    "source_file": "实验室4.mp4",
+    "source_sha256": "e8a3e4653b6dfff88427e2d11aab144d2c8eb4035d45338ad3a9a959c2487fde",
+    "sha256": "f9ae7e63b59bf292da6e4f270063374cef046b2d8578a5762b0b96180b33e12b",
+    "transformation": "实验室机械臂及升降立柱动作；无音轨，移除元数据"
+  },
+  {
+    "path": "docs/assets/videos/thermal-tracking.mp4",
+    "kind": "video",
+    "source_file": "frame 2021-05-19 16-49-05.mp4",
+    "source_sha256": "1e42c8b552c3eff670a2a72539423ff3ff404230a8adc81d28107afc563aac3d",
+    "sha256": "2d5981de183d3fee8a0e8055c6a310a5e10250a6b92dfc6023da9b3f2c4bf52f",
+    "transformation": "实验室红外阈值热源跟踪画面；裁去顶部时间叠加，无音轨，移除元数据"
+  },
+  {
+    "path": "docs/assets/images/operation-animation.jpg",
+    "kind": "preview",
+    "source_file": "灭火动画最终成片.mp4",
+    "source_sha256": "5df01b8b548fbd246f6350250e8e291aec4622e43f417ee9c9b02640c7c29293",
+    "sha256": "e13b6f3fa6e8484c849583ced039cf251dee7aa3110f98355e6946737baf94a4",
+    "transformation": "原作业动画20秒截帧；非现场试验"
+  }
+]
